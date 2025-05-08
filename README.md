@@ -16,4 +16,4 @@ Fournir une interface simple (CLI ou Web) pour que l'utilisateur puisse entrer l
 ✅ Évaluation du modèle à l’aide de métriques comme le MAE, RMSE, ou R² score
 
 💬 Interface utilisateur pour effectuer des prédictions 
-
+![L](CarPrice.jpg)  
